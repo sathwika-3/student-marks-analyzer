@@ -1,21 +1,22 @@
 # student-marks-analyzer
-About the Project
+
+# About the Project
 
 The Student Marks Analyzer is a beginner-friendly Python project that works with student marks and displays their grades.
 
-Features
+# Features
 
 - Stores student information and marks.
 - Uses Python conditions to determine grades.
 - Displays student results.
 
-Technologies Used
+# Technologies Used
 
 - Python 3
 - Lists and dictionaries
 - Conditional statements
 
-How to Run
+# How to Run
 
 1. Install Python 3.
 
@@ -27,7 +28,7 @@ How to Run
    
    python "students marks.py"
 
-Learning Outcomes
+# Learning Outcomes
 
 - Practiced Python data structures.
 - Learned to use conditional statements.
