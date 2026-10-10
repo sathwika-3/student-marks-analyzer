@@ -12,8 +12,8 @@ The Student Marks Analyzer is a beginner-friendly Python project that works with
 
 # Technologies Used
 
-- Python 3
-- Lists and dictionaries
+- Python dictionaries
+- loops
 - Conditional statements
 
 # How to Run
